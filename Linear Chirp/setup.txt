@@ -1,0 +1,3 @@
+time_tauDes_tauMeas_motor1_test1.csv has the following columns:
+
+Time - Desired torque - Measured Torque
