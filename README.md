@@ -1,2 +1,2 @@
 # AT02_data
-Data for the 2DoF ankle. 
+Test data for the 2DoF ankle. 
