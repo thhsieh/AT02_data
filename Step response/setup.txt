@@ -1,0 +1,3 @@
+d.mat is the data that can be imported into MATLAB. It has three columns:
+
+System timestamp (msec) // Desired Torque (N-m) // Measured Torque (N-m)
